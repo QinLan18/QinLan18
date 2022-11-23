@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @QinLan18
-- 👀 I’m interested in Computer Engineering
+- 👀 I’m interested in web front-end development
 - 🌱 I’m currently learning CUHK-SZ
-- 💞️ I’m looking to collaborate on web front-end development.
 - 📫 How to reach me 118010246@link.cuhk.edu.cn
 
 <!---
