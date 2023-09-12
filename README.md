@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QinLan18
 - 👀 I’m interested in web front-end development
 - 🌱 I’m currently learning in CUHK-SZ
-- 📫 How to reach me 118010246@link.cuhk.edu.cn
+- 📫 Reach me by QQ: 1819077010@qq.com or Wechat:19803000201
 
 <!---
 QinLan18/QinLan18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
