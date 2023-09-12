@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QinLan18
 - 👀 I’m interested in web front-end development
-- 🌱 I’m currently learning in CUHK-SZ
+- 🌱 I have graduated from CUHK(SZ).
 - 📫 Reach me by QQ: 1819077010@qq.com or Wechat:19803000201
 
 <!---
